@@ -3,15 +3,15 @@
 **Université de Yaoundé I - Master 1 Informatique**  
 **Cours : UML et Design Patterns - 2025/2026**
 
-## 👩‍🎓 Auteur
+##  Auteur
 **DJAPANA TINDI CLAIRE ORNELA**  
 **Matricule : 21T2438**  
 **Master 1 Informatique**
 
-## 📋 Description
+## Description
 Implémentation des 5 principes SOLID avec exemples "avant" et "après" refactoring.
 
-## 🏗️ Structure du projet
+##  Structure du projet
 
 TD1_INF4067/
 ├── 1_SRP/ # Single Responsibility Principle
@@ -28,7 +28,7 @@ TD1_INF4067/
 - **Outils** : Git, GitHub
 - **Environnement** : ligne de commande Java
 
-## 📚 Principes SOLID implémentés
+##  Principes SOLID implémentés
 
 ### 1. SRP - Single Responsibility Principle
 - **Problème** : Une classe avec trop de responsabilités
@@ -50,7 +50,7 @@ TD1_INF4067/
 - **Problème** : Dépendances directes aux implémentations concrètes
 - **Solution** : Dépendances aux abstractions
 
-## 🚀 Comment exécuter
+##  Comment exécuter
 
 ### Compilation et exécution
 ```bash
